@@ -1,4 +1,4 @@
 
-Couchapps for Open Library Lists database.
+Couchapps for Open Library couchdb database.
 
 
